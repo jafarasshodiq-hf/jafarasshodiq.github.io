@@ -1,0 +1,7 @@
+echo "# jafarasshodiq.github.io" >> README.md
+git init ; 
+git add README.md ;menupdae perubahan
+git commit -m "first commit" ; ngasih tau perubahan 
+git branch -M main ; ngubah branch jadi main
+git remote add origin https://github.com/jafarasshodiq-hf/jafarasshodiq.github.io.git
+git push -u origin main ; buat ngepush web
