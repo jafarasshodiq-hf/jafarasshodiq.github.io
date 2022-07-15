@@ -5,3 +5,8 @@ git commit -m "first commit" ; ngasih tau perubahan
 git branch -M main ; ngubah branch jadi main
 git remote add origin https://github.com/jafarasshodiq-hf/jafarasshodiq.github.io.git
 git push -u origin main ; buat ngepush web
+
+
+  <p class="lead text-light">terima kasih kepada:</p>
+  <a class="btn btn-primary-md-4 btn-success" href="https://www.instagram.com/fyr130808/" role="button">fyr130808</a>
+  <a class="btn btn-primary-md-4 btn-success" href="https://www.instagram.com/royyan_aja30/" role="button">royyan_aja30</a>
